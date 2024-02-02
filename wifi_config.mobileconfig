@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>EncryptionType</key>
+				<string>WPA2</string>
+				<key>Password</key>
+				<string>Hharut63</string>
+				<key>PayloadDisplayName</key>
+				<string>Wi-Fi #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.wifi.managed.19736380-88a2-4c72-99ad-9e542285051a</string>
+				<key>PayloadType</key>
+				<string>com.apple.wifi.managed</string>
+				<key>PayloadUUID</key>
+				<string>1c1b27fc-5afe-4c57-a9ee-fa511c93b4ed</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>SSID_STR</key>
+				<string>Ucom8818_5G</string>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>Untitled</string>
+		<key>PayloadIdentifier</key>
+		<string>DESKTOP-TOU6LAH.af013904-336a-48b2-92c9-eaa81d474406</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>72d321e8-8594-441a-a78c-255caed7cc45</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
