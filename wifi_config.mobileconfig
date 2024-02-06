@@ -33,9 +33,5 @@
 		<string>72d321e8-8594-441a-a78c-255caed7cc45</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
-		<key>AutoJoin</key>
-		<ture/>
-		<key>CaptivityBypass</key>
-		<true/>
 	</dict>
 </plist>
