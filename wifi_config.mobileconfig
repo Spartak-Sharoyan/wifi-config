@@ -21,6 +21,10 @@
 				<integer>1</integer>
 				<key>SSID_STR</key>
 				<string>Ucom8818_5G</string>
+				<key>AutoJoin</key>
+				<ture/>
+				<key>CaptivityBypass</key>
+				<true/>
 			</dict>
 		</array>
 		<key>PayloadDisplayName</key>
